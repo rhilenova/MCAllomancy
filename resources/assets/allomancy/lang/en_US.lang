@@ -1,0 +1,42 @@
+# Key localizations 
+#key.extra=Extra
+
+# Item localizations
+item.allomancy:emptyVial.name=Empty Allomancer's Vial
+item.allomancy:aluminumVial.name=Aluminum Allomancer's Vial
+item.allomancy:ironVial.name=Iron Allomancer's Vial
+item.allomancy:steelVial.name=Steel Allomancer's Vial
+item.allomancy:tinVial.name=Tin Allomancer's Vial
+item.allomancy:pewterVial.name=Pewter Allomancer's Vial
+item.allomancy:zincVial.name=Zinc Allomancer's Vial
+item.allomancy:brassVial.name=Brass Allomancer's Vial
+item.allomancy:copperVial.name=Copper Allomancer's Vial
+item.allomancy:bronzeVial.name=Bronze Allomancer's Vial
+item.allomancy:goldVial.name=Gold Allomancer's Vial
+item.allomancy:electrumVial.name=Electrum Allomancer's Vial
+item.allomancy:chromiumVial.name=Chromium Allomancer's Vial
+item.allomancy:nicrosilVial.name=Nicrosil Allomancer's Vial
+item.allomancy:duraluminVial.name=Duralumin Allomancer's Vial
+item.allomancy:cadmiumVial.name=Cadmium Allomancer's Vial
+item.allomancy:bendalloyVial.name=Bendally Allomancer's Vial
+item.allomancy:atiumVial.name=Atium Allomancer's Vial
+item.allomancy:malatiumVial.name=Malatium Allomancer's Vial
+item.allomancy:larasiumVial.name=Larasium Allomancer's Vial
+item.allomancy:mixedVial.name=Mistborn's Vial
+
+item.allomancy:mistcloak.name=Mistcloak
+
+# Block localizations
+#tile.ee3:redWaterStill.name=Red Water (Still)
+
+# GUI localizations
+#container.ee3:calcinator=Calcinator [WIP]
+
+# Command localizations
+#command.ee3:overlay.turned_on=Target transmutation overlay turned on
+
+# Creative Tab localizations
+itemGroup.allomancy=Allomancy
+
+# Version check localizations
+#version.ee3:init_log_message=Initializing remote version check against remote version authority, located at: %s
